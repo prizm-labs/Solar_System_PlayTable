@@ -1,0 +1,14 @@
+{
+  "04 4C 34 BA" : {
+    "type" : "emitter"
+  },
+  "04 EC 44 BA": {
+    "type" :"smallPlanet"
+  },
+  "04 EE 31 BA": {
+    "type" :"midPlanet"
+  },
+  "04 C3 35 BA":{
+    "type":"largePlanet"
+  }
+}
